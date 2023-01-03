@@ -1,0 +1,10 @@
+해야할 것
+    -Json 저장 만들기
+    -로또 시스템 적용하기
+    -동엽이한테 MoneySO float 형식으로 변경해달라고 하기
+    -10일안에 완성하기
+
+빌드하기 전 변경(제거)해야할 스크립트
+    -PlayerController.cs
+    -CameraMove.cs
+    -MoneyAndStarPointSO(그냥 PointSO로 바꾸자..)
